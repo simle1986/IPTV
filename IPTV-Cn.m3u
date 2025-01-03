@@ -851,12 +851,6 @@ http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
 http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/d3cd568faf93aef426d5063fe57a4e1e.jpg",优购物电视购物
 https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
-#EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small1169b8b887d3df8600d6271355339f221517314723.jpg",运城一套新闻综合频道
-http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small157f52c45c35f6e43017b68b7fb36f6c1517314850.jpg",运城二套公共频道
-http://live.0359tv.com/lsdream/t667aTY/live.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small9c5e724ad76565e008ec5a7544276f3d1517314935.jpg",运城三套科教频道
-http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0131/small1179b7772bea1ba44ce228b03be0ac5b1517369545.jpg",延安一套新闻综合频道
 http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0131/small5289e5916524b9f55012682b3539633a1517369638.jpg",延安二套公共频道
@@ -871,3 +865,43 @@ http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ea03ed711725339376
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/31c78e268aa487753cbbd410e7a5c4a5.jpg",西宁生活服务频道
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 tvg-name="万荣综合" tvg-logo="https://live.fanmingming.cn/tv/万荣综合.png" group-title="山西频道",万荣综合
+http://60.222.246.220:19433/hls1.m3u8$订阅源-720x404
+#EXTINF:-1 tvg-name="五台综合" tvg-logo="https://live.fanmingming.cn/tv/五台综合.png" group-title="山西频道",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd$订阅源-1024x576
+#EXTINF:-1 tvg-name="优购物电视购物" tvg-logo="https://live.fanmingming.cn/tv/优购物电视购物.png" group-title="山西频道",优购物电视购物
+https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3$订阅源-800x480
+#EXTINF:-1 tvg-name="原平综合" tvg-logo="https://live.fanmingming.cn/tv/原平综合.png" group-title="山西频道",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd$订阅源-720x576
+#EXTINF:-1 tvg-name="古县综合" tvg-logo="https://live.fanmingming.cn/tv/古县综合.png" group-title="山西频道",古县综合
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源-720x480
+#EXTINF:-1 tvg-name="大同1套新闻综合" tvg-logo="https://live.fanmingming.cn/tv/大同1套新闻综合.png" group-title="山西频道",大同1套新闻综合
+https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=e5571e981725351515$订阅源
+#EXTINF:-1 tvg-name="大同2套公共" tvg-logo="https://live.fanmingming.cn/tv/大同2套公共.png" group-title="山西频道",大同2套公共
+https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=f93242d11725351521$订阅源
+#EXTINF:-1 tvg-name="大同3套煤都生活" tvg-logo="https://live.fanmingming.cn/tv/大同3套煤都生活.png" group-title="山西频道",大同3套煤都生活
+https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=975e4fdd1725351527$订阅源
+#EXTINF:-1 tvg-name="定襄综合" tvg-logo="https://live.fanmingming.cn/tv/定襄综合.png" group-title="山西频道",定襄综合
+http://lbyzztfe.live.sxmty.com:80/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8$订阅源-1280x720
+#EXTINF:-1 tvg-name="定襄综合" tvg-logo="https://live.fanmingming.cn/tv/定襄综合.png" group-title="山西频道",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源-1280x720
+#EXTINF:-1 tvg-name="定襄综合" tvg-logo="https://live.fanmingming.cn/tv/定襄综合.png" group-title="山西频道",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8$订阅源-1280x720
+#EXTINF:-1 tvg-name="怀仁综合" tvg-logo="https://live.fanmingming.cn/tv/怀仁综合.png" group-title="山西频道",怀仁综合
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源-1920x1080
+#EXTINF:-1 tvg-name="潞城新闻综合" tvg-logo="https://live.fanmingming.cn/tv/潞城新闻综合.png" group-title="山西频道",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8$订阅源-1920x1080
+#EXTINF:-1 tvg-name="潞城新闻综合" tvg-logo="https://live.fanmingming.cn/tv/潞城新闻综合.png" group-title="山西频道",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8?zshanxd$订阅源-1920x1080
+#EXTINF:-1 tvg-name="闻喜综合" tvg-logo="https://live.fanmingming.cn/tv/闻喜综合.png" group-title="山西频道",闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd$订阅源-720x576
+#EXTINF:-1 tvg-name="阳曲综合" tvg-logo="https://live.fanmingming.cn/tv/阳曲综合.png" group-title="山西频道",阳曲综合
+https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源-1920x1080
+#EXTINF:-1 tvg-name="黎城综合" tvg-logo="https://live.fanmingming.cn/tv/黎城综合.png" group-title="山西频道",黎城综合
+http://111.53.96.67:8081/live/1/index.m3u8$订阅源-1920x1080
+#EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small1169b8b887d3df8600d6271355339f221517314723.jpg",group-title="山西频道"运城一套新闻综合频道
+http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small157f52c45c35f6e43017b68b7fb36f6c1517314850.jpg",group-title="山西频道"运城二套公共频道
+http://live.0359tv.com/lsdream/t667aTY/live.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0130/small9c5e724ad76565e008ec5a7544276f3d1517314935.jpg",group-title="山西频道"运城三套科教频道
+http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
