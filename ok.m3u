@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 group-title="公告-XPK"tvg-logo="https://gitee.com/simle1986/tv/raw/master/bb.png",XYXPK
 https://gitee.com/simle1986/tv/raw/master/1.mp4
-#EXTINF:-1 group-title="公告-闲鱼小潘柯"tvg-logo="https://gitee.com/simle1986/tv/raw/master/bb.png",闲鱼小潘柯
+#EXTINF:-1 group-title="公告-闲鱼小潘柯"tvg-logo="https://gitee.com/simle1986/tv/raw/master/bb.png",小潘柯
 https://gitee.com/simle1986/tv/raw/master/2.mp4
 #EXTM3U
 #EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV1.png",CCTV1
