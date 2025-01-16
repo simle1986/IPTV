@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 #EXTINF:-1 group-title="公告" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",XYXPK
-https://gitee.com/simle1986/iptv/raw/master/xpk.mp4
-#EXTINF:-1 group-title="公告" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",闲鱼小潘柯
 https://gitee.com/simle1986/iptv/raw/master/xpk3.mp4
+#EXTINF:-1 group-title="公告" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",闲鱼小潘柯
+https://gitee.com/simle1986/iptv/raw/master/1.mp4
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="CGTN",CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -88,3 +88,4 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
 http://cdn.adultiptv.net/asian.m3u8
+
