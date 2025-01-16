@@ -3,7 +3,187 @@
 https://gitee.com/simle1986/iptv/raw/master/xpk3.mp4
 #EXTINF:-1 group-title="公告" tvg-logo="https://gitee.com/simle1986/iptv/raw/master/b2b.png",闲鱼小潘柯
 https://gitee.com/simle1986/iptv/raw/master/1.mp4
-
+#EXTM3U
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV1.png",CCTV1
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV2.png",CCTV2
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv2
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV3.png",CCTV3
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv3
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV4.png",CCTV4
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV4美洲.png",CCTV4美洲
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4a
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV4欧洲.png",CCTV4欧洲
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4o
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV5.png",CCTV5
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV5+.png",CCTV5+
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5p
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV6.png",CCTV6
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV7.png",CCTV7
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv7
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV8.png",CCTV8
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv8
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV9.png",CCTV9
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv9
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV10.png",CCTV10
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv10
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV11.png",CCTV11
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv11
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV12.png",CCTV12
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv12
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV13.png",CCTV13
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv13
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV14.png",CCTV14
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv14
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV15.png",CCTV15
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv15
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV17.png",CCTV17
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv17
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/发现之旅.png",发现之旅
+http://nn.7x9d.cn/组播/咪咕视频.php?id=fxzl
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/老故事.png",老故事
+http://nn.7x9d.cn/组播/咪咕视频.php?id=lgs
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/中学生.png",中学生
+http://nn.7x9d.cn/组播/咪咕视频.php?id=zxs
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CGTN.png",CGTN
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtn
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png",CGTN纪录
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtnjl
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV西班牙语.png",CCTV西班牙语
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtne
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CGTN法语.png",CCTV法语
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtnf
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CCTV阿拉伯语.png",CCTV阿拉伯语
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtna
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png",CCTV俄语
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtnr
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/东方卫视.png",东方卫视
+http://nn.7x9d.cn/组播/咪咕视频.php?id=dfws
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/河南卫视.png",河南卫视
+http://nn.7x9d.cn/组播/咪咕视频.php?id=hnws
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』卫视.png",『央卫①』卫视
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jsws
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/上视东方影视.png",东方影视
+http://nn.7x9d.cn/组播/咪咕视频.php?id=dfys
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』新闻综合.png",『央卫①』新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=shxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』第一财经.png",『央卫①』第一财
+http://nn.7x9d.cn/组播/咪咕视频.php?id=dycj
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/法治天地.png",法治天地
+http://nn.7x9d.cn/组播/咪咕视频.php?id=fztd
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/劲爆体育.png",劲爆体育
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jbty
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/魅力足球.png",魅力足球
+http://nn.7x9d.cn/组播/咪咕视频.php?id=mlzq
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/乐游.png",乐游
+http://nn.7x9d.cn/组播/咪咕视频.php?id=ly
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/欢笑剧场.png",欢笑剧场
+http://nn.7x9d.cn/组播/咪咕视频.php?id=hxjc
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/游戏风云.png",游戏风云
+http://nn.7x9d.cn/组播/咪咕视频.php?id=yxfy
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/临洮电视台.png",临洮电视台
+http://nn.7x9d.cn/组播/咪咕视频.php?id=lttv
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』城市.png",『央卫①』城市
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jscs
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』综艺.png",『央卫①』综艺
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jszy
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』影视.png",『央卫①』影视
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jsys
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』公共新闻.png",『央卫①』公共新闻
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jsggxw
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』国际.png",『央卫①』国际
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jsgj
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』教育电视台.png",『央卫①』教育
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jsjy
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/『央卫①』体育休闲.png",『央卫①』体育休闲
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jstyxx
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/优漫卡通.png",优漫卡通
+http://nn.7x9d.cn/组播/咪咕视频.php?id=ymkt
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/南京新闻综合.png",南京新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=njxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/南京教科.png",南京教科
+http://nn.7x9d.cn/组播/咪咕视频.php?id=njkj
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/南京十八.png",南京十八
+http://nn.7x9d.cn/组播/咪咕视频.php?id=njsb
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/淮安新闻综合.png",淮安新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=haxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/连云港新闻综合.png",连云港新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=lygxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/泰州新闻综合.png",泰州新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=tzxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/宿迁新闻综合.png",宿迁新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=sqxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/徐州新闻综合.png",徐州新闻综合
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xzxwzh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/嘉佳卡通.png",嘉佳卡通
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jjkt
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/CBA经典.png",CBA经典
+http://nn.7x9d.cn/组播/咪咕视频.php?id=cbajd
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/掼蛋精英赛.png",掼蛋精英赛
+http://nn.7x9d.cn/组播/咪咕视频.php?id=gdjys
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/和平精英赛事.png",和平精英赛事
+http://nn.7x9d.cn/组播/咪咕视频.php?id=hpjxss
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/红色轮播.png",红色轮播台
+http://nn.7x9d.cn/组播/咪咕视频.php?id=hslbt
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/军事迷必看大片.png",军事迷必看大片
+http://nn.7x9d.cn/组播/咪咕视频.php?id=jsdp
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/NBA经典.png",NBA经典
+http://nn.7x9d.cn/组播/咪咕视频.php?id=nbajd
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/全民乒乓.png",全民乒乓
+http://nn.7x9d.cn/组播/咪咕视频.php?id=qmpp
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/UFC格斗精选.png",UFC格斗精选
+http://nn.7x9d.cn/组播/咪咕视频.php?id=ufcgdjx
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/五大联赛经典.png",五大联赛经典
+http://nn.7x9d.cn/组播/咪咕视频.php?id=wdlsjd
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/乡村振兴.png",乡村振兴
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xczx
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/英雄联盟赛事.png",英雄联盟赛事
+http://nn.7x9d.cn/组播/咪咕视频.php?id=yxlmss
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/周杰伦现场.png",周杰伦现场
+http://nn.7x9d.cn/组播/咪咕视频.php?id=zjlxc
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/最强综艺趴.png",最强综艺趴
+http://nn.7x9d.cn/组播/咪咕视频.php?id=zqzyp
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫01.png",熊猫01高清
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xmpd
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫1.png",熊猫1
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm1
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫2.png",熊猫2
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm2
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫3.png",熊猫3
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm3
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫4.png",熊猫4
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm4
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫5.png",熊猫5
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm5
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫6.png",熊猫6
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm6
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫7.png",熊猫7
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm7
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫8.png",熊猫8
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm8
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫9.png",熊猫9
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm9
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/熊猫10.png",熊猫10
+http://nn.7x9d.cn/组播/咪咕视频.php?id=xm10
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/龙胜龙脊梯田.png",龙胜龙脊梯田
+http://nn.7x9d.cn/组播/咪咕视频.php?id=lsljtt
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/大藤峡.png",大藤峡
+http://nn.7x9d.cn/组播/咪咕视频.php?id=dtx
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/邕城.png",邕城
+http://nn.7x9d.cn/组播/咪咕视频.php?id=yc
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/遇龙河.png",遇龙河
+http://nn.7x9d.cn/组播/咪咕视频.php?id=ylh
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/开封金明广场.png",开封金明广场
+http://nn.7x9d.cn/组播/咪咕视频.php?id=kfjmgc
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/开封清明上河园西门.png",开封清明上河园西门
+http://nn.7x9d.cn/组播/咪咕视频.php?id=kfqmshyxm
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/开封连霍高速路口.png",开封连霍高速路口
+http://nn.7x9d.cn/组播/咪咕视频.php?id=kflhgsgl
+#EXTINF:-1 group-title="『央卫①』" tvg-logo="https://live.zbds.top/logo/开封鼓楼.png",开封鼓楼
+http://nn.7x9d.cn/组播/咪咕视频.php?id=kfgl
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="CGTN",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="CGTN",CGTN记录
