@@ -43,9 +43,9 @@ http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv14
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv15
 #EXTINF:-1 group-title="央视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/CCTV17.png",CCTV17
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv17
-#EXTINF:-1 group-title="央视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/CCTVfaxianzhilv.png",发现之旅
+#EXTINF:-1 group-title="央视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/发现之旅.png",发现之旅
 http://nn.7x9d.cn/组播/咪咕视频.php?id=fxzl
-#EXTINF:-1 group-title="央视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/CCTVlaogushi.png",老故事
+#EXTINF:-1 group-title="央视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/老故事.png",老故事
 http://nn.7x9d.cn/组播/咪咕视频.php?id=lgs
 #EXTINF:-1 group-title="央视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/中学生.png",中学生
 http://nn.7x9d.cn/组播/咪咕视频.php?id=zxs
@@ -61,39 +61,39 @@ http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtnf
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtna
 #EXTINF:-1 group-title="央视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/CGTN俄语.png",CCTV俄语
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cgtnr
-#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/dongfang.png",东方卫视
+#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/东方卫视.png",东方卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=dfws
-#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/shanxi.png",陕西卫视
+#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/陕西卫视.png",陕西卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=sxws
-#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/henan.png",河南卫视
+#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/河南卫视.png",河南卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=hnws
-#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/jiangxi.png",江西卫视
+#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/江西卫视.png",江西卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=jxws
-#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/jiangsu.png",江苏卫视
+#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/江苏卫视.png",江苏卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=jsws
-#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/dongnan.png",东南卫视
+#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/东南卫视.png",东南卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=dnws
 #EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/海峡卫视.png",海峡卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=hxws
 #EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/大湾区卫视.png",大湾区卫视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws
-#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/shanghaidongfangyingshi.png",东方影视
+#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/东方影视.png",东方影视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=dfys
-#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/shangshixinwen.png",上海新闻综合
+#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/上海新闻综合.png",上海新闻综合
 http://nn.7x9d.cn/组播/咪咕视频.php?id=shxwzh
 #EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/上海第一财经.png",上海第一财经
 http://nn.7x9d.cn/组播/咪咕视频.php?id=dycj
 #EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/法治天地.png",法治天地
 http://nn.7x9d.cn/组播/咪咕视频.php?id=fztd
-#EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/jinbaotiyu.jpg",劲爆体育
+#EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/劲爆体育.jpg",劲爆体育
 http://nn.7x9d.cn/组播/咪咕视频.php?id=jbty
 #EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/魅力足球.png",魅力足球
 http://nn.7x9d.cn/组播/咪咕视频.php?id=mlzq
 #EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/乐游.png",乐游
 http://nn.7x9d.cn/组播/咪咕视频.php?id=ly
-#EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/huanxiao.png",欢笑剧场
+#EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/欢笑剧场.png",欢笑剧场
 http://nn.7x9d.cn/组播/咪咕视频.php?id=hxjc
-#EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/youxifengyun.png",游戏风云
+#EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/游戏风云.png",游戏风云
 http://nn.7x9d.cn/组播/咪咕视频.php?id=yxfy
 #EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/甘肃卫视.png",临洮电视台
 http://nn.7x9d.cn/组播/咪咕视频.php?id=lttv
@@ -111,11 +111,11 @@ http://nn.7x9d.cn/组播/咪咕视频.php?id=jsgj
 http://nn.7x9d.cn/组播/咪咕视频.php?id=jsjy
 #EXTINF:-1 group-title="卫视咪咕"  tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/江苏休闲体育.png",江苏休闲体育
 http://nn.7x9d.cn/组播/咪咕视频.php?id=jstyxx
-#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/youman.png",优漫卡通
+#EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/优漫卡通.png",优漫卡通
 http://nn.7x9d.cn/组播/咪咕视频.php?id=ymkt
-#EXTINF:-1 group-title="卫视咪咕"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png",广东影视
+#EXTINF:-1 group-title="卫视咪咕"tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/广东影视.png",广东影视
 http://nn.7x9d.cn/组播/咪咕视频.php?id=gdys
-#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/jiajiakt.png",嘉佳卡通
+#EXTINF:-1 group-title="卫视咪咕" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/嘉佳卡通.png",嘉佳卡通
 http://nn.7x9d.cn/组播/咪咕视频.php?id=jjkt
 #EXTINF:-1 group-title="卫视咪咕"tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/南京新闻综合.png",南京新闻综合
 http://nn.7x9d.cn/组播/咪咕视频.php?id=njxwzh
